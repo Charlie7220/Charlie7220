@@ -10,3 +10,8 @@
 Charlie7220/Charlie7220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Round No:32544431399769216
+Seed:
+Result Cipher:905e804c96d937b255107b4ad956aec893ffc468b89b1c34bc370f5e2104979b
+Seed Cipher:78fea254942d089b2bfb7611e80327b2b28f3e2b382a08b46f2d34a2359f362e
+Result:
